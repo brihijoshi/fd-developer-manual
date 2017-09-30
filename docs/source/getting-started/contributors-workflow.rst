@@ -10,16 +10,16 @@ considerations:
    forked **master** branch should just be a mirror of the official one and must be pulled
    frequently to be up to date with latest features and bugfixes.
 
-If you don't follow the previous suggestions your pull request probably will be rejected. 
+If you don't follow the previous suggestions, your pull request will probably be rejected. 
 
-As a recommendation use meaningful branch names because they are going to be public.
+As a recommendation, use meaningful branch names because they are going to be public.
 
 How to contribute
 #################
 
 Freedomotic follows the `fork &
 pull <https://help.github.com/articles/using-pull-requests>`__ process
-for collecting and quality-checking contributions from the development
+for collecting and quality-checking contributions from the developer
 community.
 
 This process works as follows:
@@ -44,13 +44,13 @@ This process works as follows:
 4. When your proposed modifications are complete, you can generate a
    pull request, e.g. asking to merge *fixing-Core-413* into
    **freedomotic/master**. This can be done by publishing your new local
-   branch online in your repository fork
+   branch online in your repository fork.
 
 .. code:: 
 
     git push origin BRANCHNAME
 
-To generate a pull-request just click the **Create pull request** button
+To generate a pull-request, just click on the **Create pull request** button
 on GitHub 6. Your pull request will be reviewed by Freedomotic
 Development Team that will merge it into the main repository or ask for
 further revisions.
@@ -58,6 +58,5 @@ further revisions.
 More Info
 #########
 
-If you are clueless the procedure described above is covered in full
-details with screenshots
+If you are still clueless, the above procedure has been described completely (with screenshots), here :
 https://help.github.com/articles/using-pull-requests/#initiating-the-pull-request
