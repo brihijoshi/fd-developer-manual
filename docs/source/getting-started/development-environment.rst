@@ -16,7 +16,7 @@ Requirements check
 `Freedomotic Commander 5.6 RC3 <https://sourceforge.net/projects/freedomotic/files/freedomotic-commander-5.6.0-rc3.zip/download>`_
 (released on 1 Jul 2016)
 
-Set your local development environment
+Setup your local development environment
 --------------------------------------
 
 1) Fork Freedomotic on GitHub
@@ -61,7 +61,7 @@ If you miss this step Freedomotic won't start
 Git repository is an SDK
 ------------------------
 
-The GIT repository is a complete SDK with all you need to code and test your Freedomotic plugins. Once compiled for the first time open the **freedomotic-core** project with your favourite IDE and start it to try Freedomotic.
+The GIT repository is a complete SDK with all you need to code and test your Freedomotic plugins. Once compiled for the first time, open the **freedomotic-core** project with your favourite IDE and start it to try Freedomotic.
 
 To develop your own plugin you can start from the **hello-world** example project included in *GIT_ROOT/plugins/devices/hello-world*. 
 
